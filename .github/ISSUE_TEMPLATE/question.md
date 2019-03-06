@@ -1,7 +1,7 @@
 ---
 name: question
 about: 成员提问
-title: "【问题】"
+title: ""
 labels: 问题
 assignees: ChenQuan
 
